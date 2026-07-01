@@ -10,8 +10,8 @@ textDirection:'ltr'
 Slide392:{
 lb:'',
 id:392,
-from:901,
-to:990,
+from:1081,
+to:1170,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -3407,8 +3407,8 @@ vb:[-1,-1,2,2]
 si1527:{
 name:'List_3',
 type:1268,
-from:991,
-to:1080,
+from:1171,
+to:1260,
 rp:0,
 rpa:0,
 mdi:'si1527c',
@@ -3432,7 +3432,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"padding":{"top":20,"bottom":20,"left":5,"right":5,"tablet":{"left":5,"right":5,"top":20,"bottom":20},"mobile":{"left":5,"right":5,"top":10,"bottom":10},"isDTMLinked":true},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":true,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
+widgetProps:'{"padding":{"top":20,"bottom":20,"left":5,"right":5,"tablet":{"left":5,"right":5,"top":20,"bottom":20},"mobile":{"left":5,"right":5,"top":10,"bottom":10},"isDTMLinked":true},"visibilityInfo":{"isDerivedFromChild":true},"groupedItemsVisibility":{"isDerivedFromChild":true},"alignment":{"isDerivedFromChild":true},"canBeCard":false,"appearanceProperties":{},"autoFit":false,"designOptionStyles":{"all":{"display":"flex","flexDirection":"column"},"tablet":{},"mobile":{}}}',
 retainState:false,
 immo:false,
 apsn:'Slide1251',
@@ -4052,8 +4052,8 @@ vb:[-1,-1,2,2]
 si1612:{
 name:'List_4',
 type:1268,
-from:991,
-to:1080,
+from:1171,
+to:1260,
 rp:0,
 rpa:0,
 mdi:'si1612c',
@@ -4697,8 +4697,8 @@ vb:[-1,-1,2,2]
 Slide1251:{
 lb:'Auto Padding Auto Height',
 id:1251,
-from:991,
-to:1080,
+from:1171,
+to:1260,
 iols:0,
 i360qs:false,
 sdu:3,
